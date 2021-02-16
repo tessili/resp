@@ -48,7 +48,6 @@ body {
     position: absolute;
     right: 1rem;
     top: 1.5rem;
-    cursor: pointer;
   }
   
   .nav-toggle img {
